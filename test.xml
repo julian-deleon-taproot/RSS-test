@@ -1,0 +1,25 @@
+<rss version="2.0">
+  <channel>
+    <title>Custom RSS Feed with Older Data</title>
+    <link>http://example.com</link>
+    <description>This is a custom RSS feed created for testing purposes.</description>
+    <item>
+      <title>Older News Item 1</title>
+      <link>http://example.com/older-news-item-1</link>
+      <description>Description of older news item 1.</description>
+      <pubDate>Mon, 01 Jan 2020 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Older News Item 2</title>
+      <link>http://example.com/older-news-item-2</link>
+      <description>Description of older news item 2.</description>
+      <pubDate>Wed, 15 Jan 2020 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Older News Item 3</title>
+      <link>http://example.com/older-news-item-3</link>
+      <description>Description of older news item 3.</description>
+      <pubDate>Fri, 31 Jan 2020 18:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
