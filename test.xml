@@ -15,5 +15,31 @@
       <category>News/Canada/Edmonton</category>
       <guid isPermaLink="false">1.7273346</guid>
     </item>
+
+    <item>
+      <title>
+      <![CDATA[ Article Title 2 ]]>
+      </title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alberta-jasper-wildfire-1.7279728?cmp=rss</link>
+      <description>
+      <![CDATA[ <img src='https://i.cbc.ca/1.7278254.1722261616!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/jasper-wildfire.JPG' alt='A burned-out car destroyed by fire is seen near a home.' width='620' height='349' title=''/><p></p> ]]>
+      </description>
+      <pubDate>Wed, 24 Jul 2024 06:12:09 EDT</pubDate>
+      <category>News/Canada/Edmonton</category>
+      <guid isPermaLink="false">1.7273346</guid>
+    </item>
+
+    <item>
+      <title>
+      <![CDATA[ Article Title 3 ]]>
+      </title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alberta-jasper-wildfire-1.7279728?cmp=rss</link>
+      <description>
+      <![CDATA[ <img src='https://i.cbc.ca/1.7278254.1722261616!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/jasper-wildfire.JPG' alt='A burned-out car destroyed by fire is seen near a home.' width='620' height='349' title=''/><p></p> ]]>
+      </description>
+      <pubDate>Wed, 22 Jul 2024 06:12:09 EDT</pubDate>
+      <category>News/Canada/Edmonton</category>
+      <guid isPermaLink="false">1.7273346</guid>
+    </item>
   </channel>
 </rss>
