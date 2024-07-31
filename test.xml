@@ -3,23 +3,17 @@
     <title>Custom RSS Feed with Older Data</title>
     <link>http://example.com</link>
     <description>This is a custom RSS feed created for testing purposes.</description>
-    <item>
-      <title>Older News Item 1</title>
-      <link>http://example.com/older-news-item-1</link>
-      <description>Description of older news item 1.</description>
-      <pubDate>Mon, 01 Jan 2020 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Older News Item 2</title>
-      <link>http://example.com/older-news-item-2</link>
-      <description>Description of older news item 2.</description>
-      <pubDate>Wed, 15 Jan 2020 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Older News Item 3</title>
-      <link>http://example.com/older-news-item-3</link>
-      <description>Description of older news item 3.</description>
-      <pubDate>Fri, 24 Jul 2024 18:00:00 GMT</pubDate>
+    <item cbc:type="contentpackage" cbc:deptid="2.643" cbc:syndicate="true">
+      <title>
+      <![CDATA[ Plans for Jasper re-entry take shape as hot weather threatens to reignite wildfire threat ]]>
+      </title>
+      <link>https://www.cbc.ca/news/canada/edmonton/alberta-jasper-wildfire-1.7279728?cmp=rss</link>
+      <description>
+      <![CDATA[ <img src='https://i.cbc.ca/1.7278254.1722261616!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/jasper-wildfire.JPG' alt='A burned-out car destroyed by fire is seen near a home.' width='620' height='349' title=''/><p></p> ]]>
+      </description>
+      <pubDate>Wed, 24 Jul 2024 06:12:09 EDT</pubDate>
+      <category>News/Canada/Edmonton</category>
+      <guid isPermaLink="false">1.7273346</guid>
     </item>
   </channel>
 </rss>
